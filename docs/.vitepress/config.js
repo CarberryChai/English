@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'English',
   description: 'Notes',
+  base: '/English/',
   themeConfig: {
     siteTitle: false,
     nav: [
