@@ -3,11 +3,12 @@ export default defineConfig({
   title: 'English',
   description: 'Notes',
   base: '/English/',
+  lastUpdated: true,
   themeConfig: {
     siteTitle: false,
     nav: [
       { text: 'Grammar', link: '/' },
-      { text: 'Vocabulary', link: '/vocabulary/' },
+      { text: 'Vocabulary', link: '/vocabulary/', activeMatch: '/vocabulary/' },
     ],
     sidebar: {
       '/vocabulary/': [
