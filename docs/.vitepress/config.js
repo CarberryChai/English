@@ -13,13 +13,8 @@ export default defineConfig({
     sidebar: {
       '/vocabulary/': [
         {
-          text: 'vocabulary 1...100',
+          text: '词汇表一',
           link: '/vocabulary/chapter1',
-        },
-      ],
-      '/': [
-        {
-          text: 'Grammar',
         },
       ],
     },
