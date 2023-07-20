@@ -10,7 +10,11 @@
 > S: subject; V: verb; O: object; C: complement
 
 ### 1. S + V
-  主语 + 不及物动词，所谓不及物动词就是这个动作它自己就可以完成，不需要宾语（object）。
-  * I got up rather late this morning. (今天早上我起得很晚)
+  这里的V为不及物动词，所谓不及物动词就是这个动作它自己就可以完成，不需要宾语（object）。
+  * I got up rather late this morning. (今天早上我起得很晚)  
     这里got up 是 phrasal verb，放在一起构成一个意义单元。get up 这个动作可以独立完成，属于不及物动词。
   * The dog barked at the mailman. (狗冲着邮差叫)
+
+### 2. S + V + O
+  这里的V为及物动词，及物动词后面必须有一个object来接受这个动作。
+  * The dog bit the mailman.  (狗咬邮差)

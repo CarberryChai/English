@@ -20,3 +20,48 @@
   * `noun` / ˈætrəˌbjut/ 
     - 属性； the attributes of patience and kindness
     - 标志；the sceptre is an attribute of kingly power
+    
+## 4. matter
+  > [Matter](https://www.vocabulary.com/dictionary/matter) is everywhere: anything that has mass and takes up space is matter. Air? Donuts? People? Building? Melted butter? All of these, and much, much more, are matter.
+  * `noun` that which has mass and occupies space
+  * `noun` a problem  
+      eg:  is anything the matter ?
+  * `verb` have weight; have import, carry weight  
+    eg: It does not matter much
+
+## 5. mitigate
+  > Choose the verb mitigate when something lessens the unpleasantness of a situation. You can mitigate your parent's anger by telling them you were late to dinner because you were helping your elderly neighbor.
+  * `verb` to make something less harmful, unpleasant, or bad; 使缓和；减轻（危害等） 
+    - It is unclear how to mitigate the effects of tourism on this island.
+    - Emergency funds are being provided to help mitigate the effect of the disaster.
+    - medicines used to mitigate a patient's suffering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
